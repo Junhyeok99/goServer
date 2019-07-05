@@ -1,10 +1,12 @@
-# goServer
-Simple server with Golang
+# Go-Server
+Simple server with Golang. Run server with the following instructions!
 
-```1. $git clone https://github.com/Junhyeok99/goServer.git```
+```bash
+git clone https://github.com/Junhyeok99/goServer.git
 
-```2. $cd goServer```
+cd goServer
 
-```3. $make (or $make all)```
+make # or make all
 
-```4. $make run```
+make run
+```
